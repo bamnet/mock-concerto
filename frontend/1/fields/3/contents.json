@@ -1,0 +1,92 @@
+[
+  {
+    "id": 10,
+    "name": "Yahoo News - Latest News & Headlines (6)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Lam backs Hong Kong electoral changes excluding opponents</h2> <h2>The Best Dishwasher Models, According to Interior Designers</h2> <h2>Pakistani troops kill militant linked to slaying of 4 women</h2> <h2>Supreme Court rejects Trump election challenge cases</h2> <h2>UK's leader warns climate change threatens world security</h2>"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Yahoo News - Latest News & Headlines (5)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Texas man charged after storming US Capitol, making death threats against Rep. Ocasio-Cortez and police officer</h2> <h2>Nepal's Supreme Court orders reinstatement of Parliament</h2> <h2>Israel offers compensation to families of missing children</h2> <h2>Re-creating Billie Holiday's iconic style was about finding and enhancing her essence</h2> <h2>UN: Thousands flee Ethiopia violence, seek asylum in Sudan</h2>"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Yahoo News - Latest News & Headlines (1)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Xavier Becerra, HHS nominee, largely escapes Republican attacks</h2> <h2>Congressman says he's 'tired of playing defense' against conspiracy theories and domestic extremism</h2> <h2>Centrist Democrats flex muscles, create headaches for Biden</h2> <h2>Rudy Giuliani spent days dodging voting firm’s $1.3 bn lawsuit: report</h2> <h2>A year on, India's riot victims say justice still unserved</h2>"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Yahoo News - Latest News & Headlines (9)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Officials Probe ‘Foul Play’ After Crash of Military Plane Close to Finding Abducted Nigerian Schoolboys</h2> <h2>Afghan peace talks resume, but path is anything but certain</h2> <h2>Almost half of Republicans would leave to join a new Trump party</h2> <h2>Chrissy Teigen begs Joe Biden to unfollow her on Twitter so she can get back to tweeting like herself</h2> <h2>The state of Texas should cover residents' huge energy bills from last week's power outages, the mayor of Houston said</h2>"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Yahoo News - Latest News & Headlines (7)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Biden news - live: GOP senator claims ‘fake’ Trump supporters caused riot as distracted Ted Cruz taps on phone</h2> <h2>Wife of drug kingpin 'El Chapo' arrested on federal drug charges</h2> <h2>Europe-bound migrants found amid broken glass, toxic ash</h2> <h2>Ex-Capitol police chief: Pelosi’s call for his resignation premature</h2> <h2>Chinese loans to Latin America plunge as virus strains ties</h2>"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Yahoo News - Latest News & Headlines (2)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Why China's homeowners prefer universal rights</h2> <h2>India-China dispute: Blogger detained for demeaning soldier 'heroes'</h2> <h2>Georgia Republican Perdue won't run for US Senate in 2022</h2> <h2>The Best Beds for Kids</h2> <h2>‘Zero respect’: Ted Cruz pictured scrolling through phone during harrowing opening testimony into Capitol riot</h2>"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Yahoo News - Latest News & Headlines (10)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Turkey accuses Greek military of harassing research ship</h2> <h2>What NY prosecutors could learn from Trump's tax records</h2> <h2>Ahmaud Arbery's mother reflects on her son's death one year after he was killed while jogging</h2> <h2>See pictures of the White House candlelight ceremony honoring the 500,000 Americans who died in the pandemic</h2> <h2>Fallen Capitol Police officer Brian Sicknick will lie in honor at US Capitol</h2>"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Yahoo News - Latest News & Headlines (3)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Imran Khan visits Sri Lanka as Muslims demand burial rights</h2> <h2>Boeing: 777s with engine that blew apart should be grounded</h2> <h2>Georgia police department closes case that named Dolphins cornerback Xavien Howard</h2> <h2>Suit blames Saudi Arabia for attack at Florida military base</h2> <h2>Jews split over storied charity's support for settlements</h2>"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Yahoo News - Latest News & Headlines (4)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>El Chapo’s Beauty Queen Wife Arrested in Virginia on Drug Trafficking Charges</h2> <h2>Family of Americans held in Iran want any deal to free them</h2> <h2>No charges against police officers involved in Daniel Prude's death</h2> <h2>Will Trump start his own party? How his ongoing popularity threatens Republican unity</h2> <h2>Covid: Biden calls 500,000 death toll a heartbreaking milestone</h2>"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Yahoo News - Latest News & Headlines (8)",
+    "duration": 8,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Black man arrested for walking on icy Texas street has charges dropped</h2> <h2>Canada's parliament declares China's treatment of Uighurs 'genocide'</h2> <h2>Vaccinations start without rush in Australia, parts of Asia</h2> <h2>Merrick Garland says he's concerned about 'randomness' of death penalty and its 'disparate' impact on Black Americans</h2> <h2>Home Entertainment System Upgrades from $300 to $5,000</h2>"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Graphic",
+    "duration": 8,
+    "type": "Graphic",
+    "render_details": {
+      "path": "/frontend/1/fields/1/contents/1.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Standard Embed Final Proof 1",
+    "duration": 31,
+    "type": "RemoteVideo",
+    "render_details": {
+      "path": "https://fast.wistia.net/embed/iframe/j38ihh83m5?autoPlay=true&chromeless=true&playerColor=black&html5=1"
+    }
+  }
+]

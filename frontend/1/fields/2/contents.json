@@ -1,0 +1,11 @@
+[
+  {
+    "id": 2,
+    "name": "Ticker Test",
+    "duration": 8,
+    "type": "Ticker",
+    "render_details": {
+      "data": "<p>This is ticker text!  Tick tick tick</p>\n"
+    }
+  }
+]

@@ -1,11 +1,20 @@
 [
   {
     "id": 1,
-    "name": "Sample Graphic",
+    "name": "Cosmo",
     "duration": 8,
     "type": "Graphic",
     "render_details": {
       "path": "/frontend/1/fields/1/contents/1.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Pepper",
+    "duration": 8,
+    "type": "Graphic",
+    "render_details": {
+      "path": "/frontend/1/fields/1/contents/2.jpg"
     }
   },
   {

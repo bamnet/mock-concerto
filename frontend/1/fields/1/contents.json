@@ -25,5 +25,23 @@
     "render_details": {
       "path": "https://fast.wistia.net/embed/iframe/j38ihh83m5?autoPlay=true&chromeless=true&playerColor=black&html5=1"
     }
+  },
+  {
+    "id": 19,
+    "name": "YouTube Test",
+    "duration": 62,
+    "type": "RemoteVideo",
+    "render_details": {
+      "path": "https://www.youtube.com/embed/eT4OAYjzV-s?autoplay=1\u0026end=62\u0026controls=0\u0026modestbranding=1\u0026rel=0\u0026showinfo=0\u0026iv_load_policy=3\u0026html5=1"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Vimeo Test",
+    "duration": 12,
+    "type": "RemoteVideo",
+    "render_details": {
+      "path": "https://player.vimeo.com/video/431589602?api=1\u0026player_id=playerv\u0026byline=0\u0026badge=0\u0026portrait=0\u0026autoplay=1\u0026title=0\u0026html5=1"
+    }
   }
 ]

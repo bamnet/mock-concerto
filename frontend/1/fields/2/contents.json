@@ -7,5 +7,14 @@
     "render_details": {
       "data": "<p>This is ticker text!  Tick tick tick</p>\n"
     }
+  },
+  {
+    "id": 15,
+    "name": "Long ticker",
+    "duration": 8,
+    "type": "Ticker",
+    "render_details": {
+      "data": "\u003cp\u003eThis is more ticker text.  It's awesome to have so much content in the ticker.  How does large content work? Let's find out!\u003c/p\u003e\n"
+    }
   }
 ]

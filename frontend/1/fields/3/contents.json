@@ -18,12 +18,21 @@
     }
   },
   {
-    "id": 9,
-    "name": "Yahoo News - Latest News & Headlines (5)",
+    "id": 26,
+    "name": "NYT \u003e Technology (1)",
+    "duration": 5,
+    "type": "HtmlText",
+    "render_details": {
+      "data": "\u003ch1\u003eIn a First, Uber Agrees to Classify British Drivers as ‘Workers’\u003c/h1\u003e\u003cp\u003eThe new legal classification, which follows a U.K. court ruling last month, will entitle the workers to more pay and benefits, but stops short of making them employees.\u003c/p\u003e"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Current weather in New York",
     "duration": 8,
     "type": "HtmlText",
     "render_details": {
-      "data": "<h1>Yahoo News - Latest News & Headlines</h1> <h2>Texas man charged after storming US Capitol, making death threats against Rep. Ocasio-Cortez and police officer</h2> <h2>Nepal's Supreme Court orders reinstatement of Parliament</h2> <h2>Israel offers compensation to families of missing children</h2> <h2>Re-creating Billie Holiday's iconic style was about finding and enhancing her essence</h2> <h2>UN: Thousands flee Ethiopia violence, seek asylum in Sudan</h2>"
+      "data": "\n\u003ch1\u003e Today in New York \u003c/h1\u003e\n\u003cdiv style='float: left; width: 50%'\u003e\n  \u003ci style='font-size:calc(min(80vh,80vw));' class='wi wi-owm-804'\u003e\u003c/i\u003e\n\u003c/div\u003e\n\u003cdiv style='float: left; width: 50%'\u003e\n  \u003cp\u003e Current \u003c/p\u003e\n  \u003ch1\u003e 2 \u0026deg;C \u003c/h1\u003e\n\u003c/div\u003e\n"
     }
   }
 ]
